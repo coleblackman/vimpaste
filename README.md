@@ -1,6 +1,8 @@
 # vimpaste
-Based on wookayin/imagepaste.vim
+Based on wookayin/imagepaste.vim, but partially rewritten.
 
-Installs like normal vim extensions. The clipboard integration was a little buggy, but seems to be functional on 10.15.7, no idea why that improved. This plugin seems to work fine now.
+Allows you to copy images into vim.
 
-TODO: Windows version
+Installs like normal vim extensions. The clipboard integration was a little buggy, but seems to be functional on 10.15.7, no idea why that improved. This plugin is functional.
+
+Not compatible with Windows
